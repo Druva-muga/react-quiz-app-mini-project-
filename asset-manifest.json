@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-quiz-app-mini-project-/static/css/main.5003d044.css",
+    "main.js": "/react-quiz-app-mini-project-/static/js/main.ecc5db88.js",
+    "static/js/787.9e90ff23.chunk.js": "/react-quiz-app-mini-project-/static/js/787.9e90ff23.chunk.js",
+    "index.html": "/react-quiz-app-mini-project-/index.html",
+    "main.5003d044.css.map": "/react-quiz-app-mini-project-/static/css/main.5003d044.css.map",
+    "main.ecc5db88.js.map": "/react-quiz-app-mini-project-/static/js/main.ecc5db88.js.map",
+    "787.9e90ff23.chunk.js.map": "/react-quiz-app-mini-project-/static/js/787.9e90ff23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5003d044.css",
+    "static/js/main.ecc5db88.js"
+  ]
+}
